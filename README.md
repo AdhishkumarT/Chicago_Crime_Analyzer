@@ -29,7 +29,6 @@ You can view the interactive Power BI report by clicking the link below:
 Conclusion
 This project helped me develop my skills in using Power BI for data analysis and visualization. I learned how to clean and analyze data, create meaningful visualizations, and use Power BI's powerful tools to present insights in an interactive way.
 
-Contact
-Student Name: Adhish Kumar T
+Contact: Adhish Kumar T
 Email: itzmeadhish@gmail.com
 
