@@ -2,8 +2,6 @@ Chicago Crime Analyzer - Power BI Project
 Introduction
 This project aims to analyze crime data from Chicago using Power BI. The goal is to create interactive reports and dashboards that help visualize crime trends, identify hotspots, and understand patterns in crime across different areas and times. By using Power BI's data visualization capabilities, I was able to turn raw data into meaningful insights.
 
-Project Description
-For this project, I used a dataset provided by Guvi containing crime reports from Chicago, which includes details such as crime type, location, and whether an arrest was made. The project focuses on identifying crime trends, crime types, and visualizing crime hotspots across the city.
 
 Key Features
 Crime Trends Over Time: Visualizing crime statistics over different time periods (years, months, days).
